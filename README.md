@@ -1,4 +1,8 @@
-Deployment url:
+##Deployment url: https://debadri3-nocoderegressor-app-bwva0f.streamlitapp.com/
+
+Note that training is slower on Streamlit cloud (perhaps due to lack of multithreading option). Training on local machine is likely going to be faster. 
+
+The example dataset used is that of the famous Boston housing price prediction dataset narrowed down to just 100 entries for the sake of faster training.
 
 Steps to run the project-
 
