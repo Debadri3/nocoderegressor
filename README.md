@@ -1,4 +1,4 @@
-##Deployment url: https://debadri3-nocoderegressor-app-bwva0f.streamlitapp.com/
+#Deployment url: https://debadri3-nocoderegressor-app-bwva0f.streamlitapp.com/
 
 Note that training is slower on Streamlit cloud (perhaps due to lack of multithreading option). Training on local machine is likely going to be faster. 
 
